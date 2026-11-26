@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-import Projects from './pages/projects';
-import Tasks from './pages/tasks';
+import Projects from './pages/project';
+import Tasks from './pages/task';
 import Login from './pages/login';
 import Elements from './pages/elements';
 import Tests from './pages/tests';
